@@ -1,0 +1,15 @@
+Parent Case,Missing PreCondition,Suite,Path,AutomationID,Automated,Ready For Release
+C190684,C190693,03-Sanity, >>Company Configuration >>Order SIMs,TelematicsOrderSimsCCKoreTUsa,Yes,Yes
+C190684,C112514,03-Sanity, >>Load SIM File,TelematicsLoadCarrierSimFileKoreTUsa,Yes,Yes
+C168992,C168989,03-Sanity, >>Company Configuration,TelematicsSIDUsercreatePRiSMProChildUserwithPRiSMProaccount,Yes,Yes
+C4628122,C4260595,05-Regression, >>Net Eng Network Status,TelematicsKOREGNUpdateNetworkStatusSID,Yes,Yes
+C4628122,C1318698,02-Pre-Configuration, >>Company Configuration >>Grant Features,TelematicsGrantActivationFeaturesToASimTypeKoreGN,Yes,Yes
+C4628122,C174514,03-Sanity, >>User Authentication,TelematicsLoginInPrismProUsingNewPoc,Yes-Requires Update,Yes
+C4628123,C174514,03-Sanity, >>User Authentication,TelematicsLoginInPrismProUsingNewPoc,Yes-Requires Update,Yes
+C4628124,C174514,03-Sanity, >>User Authentication,TelematicsLoginInPrismProUsingNewPoc,Yes-Requires Update,Yes
+C4628123,C4260596,05-Regression, >>Net Eng Network Status,TelematicsKOREO2UpdateNetworkStatusSID,Yes,Yes
+C4628123,C971744,02-Pre-Configuration, >>Company Configuration >>Grant Features,TelematicsGrantActivationFeaturesToASimTypeKoreO2CC,Yes-Requires Update,Yes
+C4628124,C4260598,05-Regression, >>Net Eng Network Status,TelematicsSprintUpdateNetworkStatusAvailableSID,Yes,Yes
+C4628124,C101670,03-Sanity, >>Company Configuration,TelematicsGrantSimEligibilityToACompany,Yes-Requires Update,Yes
+C2737477,C10,Invalid Test Case
+C2737478,C2110312,05-Regression, >>SIM State Transitions,TelematicsVerifyTestToActiveKoreO2CC,Yes,Yes

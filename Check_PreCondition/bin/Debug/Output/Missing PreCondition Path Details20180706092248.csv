@@ -1,0 +1,15 @@
+Parent Case,Missing PreCondition,Suite,Path
+C190684,C190693,03-Sanity, >>Company Configuration >>Order SIMs
+C190684,C112514,03-Sanity, >>Load SIM File
+C168992,C168989,03-Sanity, >>Company Configuration
+C4628122,C4260595,05-Regression, >>Net Eng Network Status
+C4628122,C1318698,02-Pre-Configuration, >>Company Configuration >>Grant Features
+C4628122,C174514,03-Sanity, >>User Authentication
+C4628123,C174514,03-Sanity, >>User Authentication
+C4628124,C174514,03-Sanity, >>User Authentication
+C4628123,C4260596,05-Regression, >>Net Eng Network Status
+C4628123,C971744,02-Pre-Configuration, >>Company Configuration >>Grant Features
+C4628124,C4260598,05-Regression, >>Net Eng Network Status
+C4628124,C101670,03-Sanity, >>Company Configuration
+C2737477,C10,Invalid Test Case
+C2737478,C2110312,05-Regression, >>SIM State Transitions
